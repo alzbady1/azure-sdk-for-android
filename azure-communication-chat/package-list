@@ -1,0 +1,5 @@
+com.azure.android.communication.chat
+com.azure.android.communication.chat.models
+com.azure.android.communication.chat.signaling
+com.azure.android.communication.chat.signaling.chatevents
+com.azure.android.communication.chat.signaling.properties
